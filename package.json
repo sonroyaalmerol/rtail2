@@ -34,7 +34,7 @@
     "update-notifier": "^2.5.0",
     "yargs": "^13.2.2",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10",
+    "vue": "^3.5.12",
     "vue-router": "^3.0.3",
     "vuetify": "^1.5.5",
     "vuex": "^3.0.1"
